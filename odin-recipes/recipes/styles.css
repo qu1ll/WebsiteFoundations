@@ -1,0 +1,33 @@
+body {
+    background-color: #2B2B2B;
+}
+
+h1 {
+    font-size: 3rem;
+    color: #76BCAE;
+    font-weight: 800;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+h3 {
+    font-size: 1.5rem;
+    color: #76BCAE;
+}
+
+p {
+    font-size: 1.25rem;
+    color: #FFFFFF;
+}
+
+ol, ul {
+    padding-left: 2rem;
+}
+
+li {
+    font-size: 1.25rem;
+    color: #FFFFFF;
+}

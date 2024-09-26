@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 40%;
+    background-color: #2B2B2B;
+    padding-left: 30%;
+}
+
+h1 {
+    font-size: 5rem;
+    color: #76BCAE;
+    font-weight: 800;
+    height: 1rem;
+    text-align: center;
+}
+
+ul {
+    font-size: 1.875rem;
+    color: #76BCAE;
+}
+
+ul li a {
+    color: #FFFFFF;
+    text-decoration: none; /* Remove the default underline */
+    display: block; /* Make each list item a block element */
+}
+
+ul li a:hover {
+    color: #76BCAE;
+}
